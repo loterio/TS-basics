@@ -1,11 +1,11 @@
 # typescript intro
 
 The repository that you're looking is basicaly a amostrage of the
-language syntax. Neste arquivo constará as estruturas básica da <sintaxe> _TypeScript_
+language syntax. Neste arquivo constará as estruturas básica da sintaxe _TypeScript_
 
 # Variáveis
 
-*let nm: string*      - ao declararmos uma variável com 'let', podemos ja definir sua tipagem
+*let nm: string*      - <b>ao</b> declararmos uma variável com 'let', podemos ja definir sua tipagem
 
 *let num: number*    - caso um tipo seja escolhido, a variável só podera assumir valores 
 
