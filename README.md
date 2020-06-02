@@ -1,7 +1,7 @@
 # typescript intro
 
 The repository that you're looking is basicaly a amostrage of the
-language syntax. Neste arquivo constará as estruturas básicas da sintaxe TypeScript
+language syntax. Neste arquivo constará as estruturas básica da <sintaxe> _TypeScript_
 
 # Variáveis
 
