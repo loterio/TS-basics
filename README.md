@@ -21,7 +21,7 @@ language syntax. Neste arquivo constará as estruturas básica da sintaxe _TypeS
 
 <b>let players: number[] = [1,2,3]</b>
 
-<b>let players2: Array<number>=[1,2,3]</b>     - assume o tipo entre as chaves '< >'
+<b>let players2: Array&lt;number&gt;=[1,2,3]</b>     - assume o tipo entre as chaves '< >'
 
 <b>let players3: [1,2,3]</b>
 
